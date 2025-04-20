@@ -10,11 +10,11 @@ Built as Dissertation Project of my MSc in Big Data & Business Intelligence (Uni
 - Visualize results with interactive charts and trend analysis
 
 ##  Key Outcomes
-**Model Accuracy**: 81% (Gradient Boosting)
-**Failures Prevented**: 15 (vs 30 with manual approach)
-**Estimated Savings**: £30,000 in downtime cost
-**Efficiency Gain**: 50% improvement in resource allocation
-**Trend**: Monthly cost of failures reduced significantly
+- **Model Accuracy**: 81% (Gradient Boosting)
+- **Failures Prevented**: 15 (vs 30 with manual approach)
+- **Estimated Savings**: £30,000 in downtime cost
+- **Efficiency Gain**: 50% improvement in resource allocation
+- **Trend**: Monthly cost of failures reduced significantly
 
 ##  Tools & Tech
 - Python, Pandas, NumPy, Scikit-Learn
