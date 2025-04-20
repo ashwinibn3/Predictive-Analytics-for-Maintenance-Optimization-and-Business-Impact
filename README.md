@@ -1,4 +1,4 @@
-##  Predictive Maintenance & Business Value Simulation
+##  Predictive Analytics for Maintenance Optimization and Business Impact
 This project demonstrates how machine learning can be used to predict equipment failures and simulate the business impact of deploying such models, using a real-world-like dataset.
 
 Built as Dissertation Project of my MSc in Big Data & Business Intelligence (University of Greenwich).
